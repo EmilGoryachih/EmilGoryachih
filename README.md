@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmilGory
+- 👋 Hi, I’m @EmilGoryachih
 - 👀 I’m interested in IT Technologies
 - 🌱 I’m currently learning programming and 3D modeling 
 - 💞️ I’m looking to collaborate on creating games, creating websites and creating 3D animations
